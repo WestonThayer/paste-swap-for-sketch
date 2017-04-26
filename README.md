@@ -1,4 +1,4 @@
-# Paste Swap
+# Paste Swap for [Sketch.app](https://www.sketchapp.com/)
 
 Use ⌃⌥⌘V to paste and replace, matching the dimensions and position of the currently selected object.
 
