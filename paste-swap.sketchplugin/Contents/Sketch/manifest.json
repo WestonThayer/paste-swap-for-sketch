@@ -5,6 +5,7 @@
     "description" : "Replace the selected object with what's on the clipboard, maintaining size",
     "authorEmail" : "me@westonthayer.com",
     "author" : "Weston Thayer",
+    "homepage" : "https://github.com/WestonThayer/paste-swap-for-sketch",
     "appcast" : "https://raw.githubusercontent.com/williamukoh/paste-swap-for-sketch/master/paste-swap-appcast.xml",
     "commands" : [
       {
