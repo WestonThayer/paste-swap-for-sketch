@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Paste Swap</title>
+    <link>https://raw.githubusercontent.com/williamukoh/paste-swap-for-sketch/master/paste-swap-appcast.xml</link>
+    <description>Use ⌃⌥⌘V to paste and replace, matching the dimensions and position of the currently selected object.</description>
+    <language>en</language>
+      <item>
+        <title>Version 1.1.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Built in support for Sketch (v45+) update mechanism. See details here -- http://developer.sketchapp.com/introduction/updating-plugins/</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Wed, 19 Jul 2017 02:00:11 +0000</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/williamukoh/paste-swap-for-sketch/master/sketch-paste-swap.zip" sparkle:version="1.1.0" type="application/octet-stream" />
+      </item>
+  </channel>
+</rss>
