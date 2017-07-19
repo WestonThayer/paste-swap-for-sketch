@@ -1,7 +1,7 @@
 {
     "name" : "Paste Swap",
     "identifier" : "com.westonthayer.paste-swap",
-    "version" : "1.0.0",
+    "version" : "1.1.0",
     "description" : "Replace the selected object with what's on the clipboard, maintaining size",
     "authorEmail" : "me@westonthayer.com",
     "author" : "Weston Thayer",
